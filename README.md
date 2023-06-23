@@ -1,4 +1,4 @@
-# Praze me chamo Matheus, bem vindo ao meu repositório
+# Prazer me chamo Matheus, bem vindo ao meu repositório
 
 Sou estágario em banco de dados, voce vai encontrar codigo de automação, ETL, SQL, PL/SQL. Fique a vontade!
 
@@ -23,20 +23,16 @@ Contato:
 ## Hard Skills:
 https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 
-[![python](	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/cardosomatheus/cardosomatheus)]
-[![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+[![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/cardosomatheus/cardosomatheus)]
+[![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://github.com/cardosomatheus/cardosomatheus)]
+[![ORACLE](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)](https://github.com/cardosomatheus/cardosomatheus)]
+[![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://github.com/cardosomatheus/cardosomatheus)]
 
-- Bancos de Dados Relacionais: SQL Server (T-SQL), Oracle (P-SQL), MySQL
-- Modelagem: Relacional, Dimensional
-- Ferramentas de ETL: Power Center, Integration Services
-- Ferramentas de Dataviz: Power BI
-- Ferramentas de apoio: Power Automate, Excel, Git, Python para análise de dados
-- Estudos autônomos: Azure Data Factory, Azure Synapse, Azure Analysis Services, Databricks, Ecossistema Apache 
-- Teradata
-- SAS
 
-<div>
-<a href="https://github.com/demetriusengdados">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=demetriusengdados&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=demetriusengdados&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
+- Bancos de Dados Relacionais: Oracle (PL-SQL), MySQL
+- Modelagem: RelacionaL
+- Ferramentas de Dataviz: QLIK SENSE (conhecimento básico)
+- Ferramentas de apoio: Excel, Git, Python para processo de ETL
+- Estudos autônomos: pyspark, mongodb, Inglês
+  
