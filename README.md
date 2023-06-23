@@ -28,7 +28,7 @@ Contato:
 ## Hard Skills:
 https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 
-
+[![python]([https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white))]
 [![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
 [![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://github.comdemetriusengdados/demetriusengdados/edit/main/README.md)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
