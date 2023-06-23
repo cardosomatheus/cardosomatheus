@@ -1,5 +1,5 @@
 	
-[![status](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white](https://github-readme-stats.vercel.app/api?username={Matheus}&theme=blue-green))](https://github.com/cardosomatheus/cardosomatheus)
+[![status](https://github-readme-stats.vercel.app/api?username={Matheus}&theme=blue-green))](https://github.com/cardosomatheus/cardosomatheus)
 
 # Prazer me chamo Matheus, bem vindo ao meu repositório
 
