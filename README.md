@@ -16,11 +16,6 @@ Contato:
 
 ### Meu objetivo é ajudar empresas a resolver seus problemas com dados.
 
-## Experiência em Projetos de Engenharia e Arquitetura de Dados usando:
-
-- python, sql e pl/sql
-- Me segue ai e bora falar de dados 
-
 ## Atuação Profissional 
 - estagiário em banco de dados - Digicade - (03/2023 - 12/2024)
 - recepcionista - HC-UFMG - (09/2020 - 12/2022)
@@ -28,13 +23,8 @@ Contato:
 ## Hard Skills:
 https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
 
-[![python]([https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white))]
-[![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
-[![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://github.comdemetriusengdados/demetriusengdados/edit/main/README.md)
-[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
-[![Hadoop](https://img.shields.io/badge/Hadoop-5849be?style=for-the-badge&logo=Hadoop&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
-[![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
-[![AWS](https://img.shields.io/badge/AWS-0052CC?style=for-the-badge&logo=AWS&logoColor=white)](https://github.com/demetriusengdados/demetriusengdados/edit/main/README.md)
+[![python](	https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/cardosomatheus/cardosomatheus)]
+[![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 - Bancos de Dados Relacionais: SQL Server (T-SQL), Oracle (P-SQL), MySQL
 - Modelagem: Relacional, Dimensional
