@@ -20,7 +20,7 @@ Contato:
 ### Meu objetivo é ajudar empresas a resolver seus problemas com dados.
 
 ## Atuação Profissional 
-- estagiário em banco de dados - Digicade - (03/2023 - 12/2024)
+- estagiário em banco de dados - Digicade - (01/2023 - 12/2023)
 - recepcionista - HC-UFMG - (09/2020 - 12/2022)
 
 ## Hard Skills:
