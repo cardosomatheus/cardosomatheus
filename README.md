@@ -22,6 +22,7 @@ Contato:
 ## Atuação Profissional 
 - estagiário em banco de dados - Digicade - (01/2023 - 12/2023)
 - recepcionista - HC-UFMG - (09/2020 - 12/2022)
+- Mensageiro interno (Jovem aprendiz ) - UFMG - (10/01/218 - 26/03/2019)
 
 ## Hard Skills:
 https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
