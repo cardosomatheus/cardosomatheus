@@ -3,7 +3,7 @@
 
 # Prazer me chamo Matheus, bem vindo ao meu repositório
 
-Sou estágario em banco de dados, voce vai encontrar codigo de automação, ETL, SQL, PL/SQL. Fique a vontade!
+Atualmente sou estágiario em banco de dados, nesse repositório voce econtrará scripts focados na parte de dados. Fique a vontade!
 
 Minhas principais skills:
 
@@ -17,7 +17,7 @@ Contato:
 <a href="https://www.linkedin.com/in/matheus-cardoso-santos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div> <a href = "cardosomcds1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-### Meu objetivo é ajudar empresas a resolver seus problemas com dados.
+### Meu objetivo é ajudar empresas a resolver seus problemas com dados e me capacitar cada vez mais.
 
 ## Atuação Profissional 
 - estagiário em banco de dados - Digicade - (01/2023 - 12/2023)
@@ -38,5 +38,5 @@ https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoC
 - Modelagem: RelacionaL
 - Ferramentas de Dataviz: QLIK SENSE (conhecimento básico)
 - Ferramentas de apoio: Excel, Git, Python para processo de ETL
-- Estudos autônomos: pyspark, mongodb, Inglês
+- Estudos autônomos: pyspark, mongodb
   
