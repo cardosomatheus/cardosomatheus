@@ -3,7 +3,7 @@
 
 # Prazer me chamo Matheus, bem vindo ao meu repositório
 
-Atualmente sou estágiario em banco de dados, nesse repositório voce econtrará scripts focados na parte de dados. Fique a vontade!
+Atualmente sou Analista em banco de dados, nesse repositório voce econtrará scripts focados na parte de dados. Fique a vontade!
 
 Minhas principais skills:
 
@@ -20,8 +20,9 @@ Contato:
 ### Meu objetivo é ajudar empresas a resolver seus problemas com dados e me capacitar cada vez mais.
 
 ## Atuação Profissional 
-- estagiário em banco de dados - Digicade - (01/2023 - 12/2023)
-- recepcionista - HC-UFMG - (09/2020 - 12/2022)
+- Analista em banco de dados - Geosite (10/01/2024) - ...
+- Estagiário em banco de dados - Geosite - (01/2023 - 12/2023)
+- Recepcionista - HC-UFMG - (09/2020 - 12/2022)
 - Mensageiro interno (Jovem aprendiz ) - UFMG - (10/01/218 - 26/03/2019)
 
 ## Hard Skills:
