@@ -3,7 +3,7 @@
 
 # Prazer me chamo Matheus, bem vindo ao meu repositório
 
-Atualmente sou Analista em banco de dados, nesse repositório voce econtrará scripts focados na parte de dados. Fique a vontade!
+Atualmente sou Analista em banco de dados, Mas logo logo serei Engenheiro de dados. Nesse repositório voce econtrará scripts focados na parte de dados. Fique a vontade!
 
 Minhas principais skills:
 
