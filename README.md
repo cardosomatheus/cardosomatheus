@@ -1,6 +1,6 @@
-📫 Contato
-LinkedIn: https://www.linkedin.com/in/matheus-cardoso-santos .
+📫 Contato:
 
+LinkedIn: https://www.linkedin.com/in/matheus-cardoso-santos
 GitHub: https://github.com/cardosomatheus
 
 ## Atuação Profissional 
