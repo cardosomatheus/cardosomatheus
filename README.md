@@ -1,9 +1,7 @@
 📫 Contato
 LinkedIn: https://www.linkedin.com/in/matheus-cardoso-santos .
-GitHub: https://github.com/cardosomatheus
 
-⚠️ Observação
-Este perfil reflete minha evolução técnica contínua, com foco em aplicação prática, performance e boas práticas em engenharia de dados.
+GitHub: https://github.com/cardosomatheus
 
 ## Atuação Profissional 
 - Analista em banco de dados - Geosite (10/01/2024) - ...
@@ -50,7 +48,7 @@ Estou evoluindo para Engenharia de Dados, com foco em construção de pipelines,
 
 ## 📊 Projetos
 
-### 🏗️ Pipeline de Dados com Arquitetura Medalhão
+### 🏗️ Pipeline de Dados com Arquitetura Medalhão (Ranking de herois)
 
 * Ingestão de dados via API
 * Processamento com PySpark
@@ -83,9 +81,8 @@ Estou evoluindo para Engenharia de Dados, com foco em construção de pipelines,
 ### 🔄 Integração de Dados com CDC
 
 * Captura de mudanças baseada em eventos
-* Integração entre sistemas via filas
-* Processamento assíncrono
-* Redução de acoplamento
+* Integração entre sistemas via filas de mudança
+* Processamento apenas do que foi modificado.
 
 ---
 
@@ -103,7 +100,6 @@ Estou evoluindo para Engenharia de Dados, com foco em construção de pipelines,
 
 * Análise e correção de problemas em produção
 * Investigação de queries críticas e degradação de performance
-* Suporte a incidentes com impacto em dados
 * Ajustes emergenciais e melhorias em SQL e PL/SQL
 
 ---
