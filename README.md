@@ -1,5 +1,5 @@
 📫 Contato
-LinkedIn: https://www.linkedin.com/in/matheus-cardoso-santos
+LinkedIn: https://www.linkedin.com/in/matheus-cardoso-santos .
 GitHub: https://github.com/cardosomatheus
 
 ⚠️ Observação
